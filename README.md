@@ -36,4 +36,8 @@ High energy, low valence, low acoustic
 Moderate energy, very low valence, low acoustic
 *(restrained delivery + emotionally unresolved affect)*
 
+## Cluster Visualization
 
+![Expressive clusters by valence and acousticness](images/clusters.png)
+
+*Clusters projected onto valence and acousticness. Point size encodes energy, illustrating how intensity differentiates overlapping expressive modes in 2D space.*
