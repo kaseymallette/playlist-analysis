@@ -41,3 +41,11 @@ Moderate energy, very low valence, low acoustic
 ![Expressive clusters by valence and acousticness](images/clusters.png)
 
 *Clusters projected onto valence and acousticness. Point size encodes energy, illustrating how intensity differentiates overlapping expressive modes in 2D space.*
+
+### Qualitative Validation Note
+
+Representative tracks were reviewed qualitatively to sanity-check cluster interpretations. Lyrics were considered only at a high level to confirm emotional resolution and delivery style, not used as features in modeling. All clustering and analysis are based solely on audio and popularity features.
+
+### Future Work
+
+Possible extensions of this project include incorporating lyrical analysis to compare semantic themes with audio-based expressive clusters, expanding the dataset to include multiple playlists or curators, and testing whether similar expressive modes emerge across genres or cultural contexts. These directions were intentionally deferred to preserve the interpretability and scope of the current analysis.
