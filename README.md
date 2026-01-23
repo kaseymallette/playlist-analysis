@@ -6,18 +6,34 @@ This project explores whether songs curated to express a morally assertive or ju
 
 The goal is not to infer lyrical meaning directly, but to test whether audio structure alone carries signals associated with morally charged expression. Lyrics analysis is considered future work.
 
-## Why Valence and Energy Matter
+## Feature Selection 
 
-Valence and energy capture two orthogonal dimensions of musical expression that are central to how assertiveness is conveyed.
+Valence, energy, and acousticness capture complementary dimensions of musical expression that are central to how assertiveness is conveyed.
 
 - **Valence** measures emotional positivity (low = negative or unresolved, high = positive or triumphant).
-- **Energy** measures intensity and forcefulness (low = subdued, high = aggressive or driving).
+- **Energy** measures intensity and forcefulness (low = subdued, high = forceful or driving).
+- **Acousticness** measures how stripped-down versus produced a track is (high = intimate or sincere, low = confrontational or performative).
 
 These dimensions are analyzed together because they describe *how* a message is delivered, not *what* it says.
 
-In this playlist, valence and energy are weakly correlated, indicating that morally assertive or judgment-oriented expression can manifest through multiple emotional modes:
+In this playlist, valence and energy are weakly correlated, indicating that morally assertive or judgment-oriented expression can manifest through multiple emotional modes. Valence is also weakly correlated with acousticness, suggesting that emotional positivity varies independently from production style. Acousticness further differentiates whether assertiveness is expressed through introspection, confrontation, or unresolved emotional tension.
 
-- **High energy, low valence** — anger, grievance, moral criticism  
-- **High energy, high valence** — confidence, certainty, triumph  
+### Expressive Clusters (KMeans on Energy, Valence, Acousticness)
 
-This separation allows the analysis to identify distinct expressive clusters without relying on lyrical interpretation.
+**Cluster 0: Direct moral affirmation or self-assertion**  
+High energy, high valence, low acoustic
+*(direct delivery + emotionally positive affect)*
+
+**Cluster 1: Reflective moral certainty**  
+Moderate energy, lower valence, high acoustic
+*(reflective delivery + sober, introspective affect)*
+
+**Cluster 2: Direct moral opposition or critique**  
+High energy, low valence, low acoustic 
+*(direct delivery + emotionally negative affect)*
+
+**Cluster 3: Unresolved moral unease**  
+Moderate energy, very low valence, low acoustic
+*(restrained delivery + emotionally unresolved affect)*
+
+
