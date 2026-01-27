@@ -2,21 +2,41 @@
 
 ## Purpose
 
-This project explores whether songs curated to express a morally assertive or judgment-oriented stance share measurable audio and popularity characteristics. Using a human-curated Spotify playlist as a labeled dataset, the analysis examines relationships between audio features (e.g., valence, energy, acousticness, loudness) and track popularity to identify clustering patterns that may reflect emotional stance, intensity, or social reception.
+This project analyzes the measurable audio characteristics of songs curated for a moral judgment–themed playlist. The playlist was curated by the author to reflect a range of perceived moral postures, spanning from morally superior, judgment-driven stances to morally and emotionally exhausted ones. While the songs are not assumed to make explicit moral claims, they are interpreted as responding to perceived wrongdoing with varying degrees of moral certainty, agency, and exhaustion. 
 
-The goal is not to infer lyrical meaning directly, but to test whether audio structure alone carries signals associated with morally charged expression. Lyrics analysis is considered future work.
+## Exploratory Analysis
 
-## Feature Selection 
+As an exploratory analysis, songs were examined using Spotify audio features, with particular focus on energy and valence, to assess whether songs associated with different perceived moral postures clustered differently in audio feature space.
+- **Valence** captures the emotional tone of a song, ranging from negative or unresolved affect to more positive or triumphant affect.
+- **Energy** reflects the song’s intensity and forcefulness, ranging from subdued or restrained to forceful or driving.
 
-Valence, energy, and acousticness capture complementary dimensions of musical expression that are central to how assertiveness is conveyed.
+## Methods
+The dataset consists of 75 songs curated by the author into a moral judgment–themed playlist. Audio features were extracted using a Spotify playlist exporter service and saved as a CSV file. In addition to audio features, Spotify popularity scores, album release year, and genre metadata were retrieved to support descriptive analysis.
 
-- **Valence** measures emotional positivity (low = negative or unresolved, high = positive or triumphant).
-- **Energy** measures intensity and forcefulness (low = subdued, high = forceful or driving).
-- **Acousticness** measures how stripped-down versus produced a track is (high = intimate or sincere, low = confrontational or performative).
+## Results
 
-These dimensions are analyzed together because they describe *how* a message is delivered, not *what* it says.
+### Popularity Distribution
 
-In this playlist, valence and energy are weakly correlated, indicating that morally assertive or judgment-oriented expression can manifest through multiple emotional modes. Valence is also weakly correlated with acousticness, suggesting that emotional positivity varies independently from production style. Acousticness further differentiates whether assertiveness is expressed through introspection, confrontation, or unresolved emotional tension.
+Figure 1 illustrates the popularity distribution of songs included in the moral judgment–themed playlist.
+
+![Popularity Distribution](images/popularity_distribution.png)
+
+The playlist spans a wide range of popularity values, including both relatively obscure tracks and highly popular songs, demonstrating that the observed patterns are not driven exclusively by niche or mainstream music.
+
+### Decade Distribution
+
+Figure 2 shows the distribution of album release decades for songs in the playlist. The majority of tracks originate from the 2010s and 2020s, indicating that the moral judgment theme, as curated here, is primarily expressed through contemporary music.
+
+![Decade Distribution](images/decade_distribution.png)
+
+### Genre Distribution
+
+Figure 3 examines the distribution of genre labels for songs in the playlist. Spotify genre metadata is not consistently provided at the track level, resulting in missing genre data. While the available labels span a wide range of genres, they are sparse and highly fragmented. Due to this inconsistency, genre-based analysis was not pursued further. 
+
+![Genre Distribution](images/genre_distribution.png)
+
+
+## REVISE 
 
 ### Expressive Clusters (KMeans on Energy, Valence, Acousticness)
 
