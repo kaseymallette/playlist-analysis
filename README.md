@@ -17,11 +17,9 @@ The dataset consists of 75 songs curated by the author into a moral judgment–t
 
 ### Popularity Distribution
 
-Figure 1 illustrates the popularity distribution of songs included in the moral judgment–themed playlist.
+Figure 1 illustrates the popularity distribution of songs included in the moral judgment–themed playlist. he playlist spans a wide range of popularity values, including both relatively obscure tracks and highly popular songs, demonstrating that the observed patterns are not driven exclusively by niche or mainstream music.
 
 ![Popularity Distribution](images/popularity_distribution.png)
-
-The playlist spans a wide range of popularity values, including both relatively obscure tracks and highly popular songs, demonstrating that the observed patterns are not driven exclusively by niche or mainstream music.
 
 ### Decade Distribution
 
