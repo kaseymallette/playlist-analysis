@@ -7,7 +7,7 @@ This project analyzes the measurable audio characteristics of songs curated for 
 ## Exploratory Analysis
 
 As an exploratory analysis, songs were examined using Spotify audio features, with particular focus on energy and valence, to assess whether songs associated with different perceived moral postures clustered differently in audio feature space.
-- **Valence** captures the emotional tone of a song, ranging from negative or unresolved affect to more positive or triumphant affect.
+- **Valence** captures the emotional tone of a song, ranging from negative or unresolved affect to more positive or triumphant.
 - **Energy** reflects the song’s intensity and forcefulness, ranging from subdued or restrained to forceful or driving.
 
 ## Methods
