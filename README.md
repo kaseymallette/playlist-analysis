@@ -12,6 +12,8 @@ As an exploratory analysis, songs were examined using Spotify audio features, wi
 - **Valence** reflects the emotional orientation of a song, ranging from darker, unresolved, or tense states to lighter, more resolved or affirming ones.
 - **Energy** captures how forcefully a song presents itself, from low-intensity and restrained to high-intensity and driving.
 
+It was hypothesized that songs representing moral judgment would tend toward lower valence, reflecting negative appraisals of harm or wrongdoing, while differences in energy would emerge depending on how forcefully or intensely the moral judgment was expressed.
+
 To identify an appropriate number of clusters, k-means clustering was performed across a range of k values and evaluated using silhouette score. To support interpretation of the resulting clusters, the most popular songs within each cluster were examined qualitatively by reviewing their lyrics. This step was used to assess whether the clusters aligned with the perceived moral postures that motivated the original playlist curation.
 
 ## Results
@@ -255,6 +257,6 @@ By contrast, Cluster 0, defined by high valence and high energy, reflects affirm
 
 This analysis demonstrates that songs within the moral philosophy playlist cluster not only by affective properties such as valence and energy, but by distinct moral–emotional orientations. By mapping valence to appraisals of harm and energy to response posture, the resulting clusters reveal patterned ways in which distress is processed, expressed, and resolved in popular music.
 
-Across the central clusters, two dominant modes emerge: pessimistic responses to sustained pressure (Clusters 1 and 2) and responses organized around moral injury (Clusters 3 and 4). Within each mode, differences in energy distinguish defensive engagement from defiant resolution. These patterns are bounded by two affective extremes: an upper pole characterized by energized moral certainty (Cluster 0) and a lower pole characterized by withdrawal and resignation (Cluster 5).
+Across the central clusters, two dominant modes emerge: pessimistic, judgmental responses to sustained pressure (Clusters 1 and 2) and responses organized around moral injury (Clusters 3 and 4). Within each mode, differences in energy distinguish defensive engagement from defiant resolution. These patterns are bounded by two affective extremes: an upper pole characterized by energized moral certainty (Cluster 0) and a lower pole characterized by withdrawal and resignation (Cluster 5).
 
 Together, these findings suggest that emotional expression in music is structured not only by intensity or positivity, but by how narrators position themselves in relation to harm, responsibility, and agency. Rather than treating valence and energy as purely descriptive features, this framework highlights their role in shaping moral stance, offering a more nuanced account of how distress and resistance are articulated in contemporary song lyrics.
