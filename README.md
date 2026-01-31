@@ -147,7 +147,7 @@ Cluster 2 captures songs in which the narrator appears pessimistic and defiant.
 
 ### Case 2: Clusters 3 and 4
 
-Clusters 3 and 4 share meidum valence but differ in energy, ranging from medium to high. 
+Clusters 3 and 4 share medium valence but differ in energy, ranging from medium to high. 
 - Cluster 3 (n = 17; valence = 51.3; energy = 49.9) is characterized by medium valence and moderate energy. 
 - Cluster 4 (n = 16; valence = 49.3; energy = 84.9) is characterized by medium valence and high energy.
 
@@ -175,7 +175,7 @@ Cluster 3 captures songs in which the narrator appears morally wounded and accus
 
 #### Cluster 4
 
-Cluster 4 captures songs in which the narrator appears wounded and defiant, where acknowledged injury gives way to decisive outward action, such as rejection, blame, or enforced distance.
+Cluster 4 captures songs in which the narrator appears wounded and defiant, as acknowledged injury gives way to decisive outward action, such as rejection, blame, or enforced distance.
 
 *Bleed It Out* by Linkin Park (2007)
 > This hurts, I won't lie   
@@ -207,6 +207,8 @@ Cluster 0 (n = 6; valence = 79.5; energy = 72.0) represents the upper extreme an
 
 #### Cluster 0
 
+Cluster 0 captures songs in which the narrator is morally certain and energized, expressing confrontation without ambivalence.
+
 *Gaslighter* by The Chicks (2020)
 > Gaslighter, denier    
 > Doin' anything to get your ass farther    
@@ -224,6 +226,8 @@ Cluster 0 (n = 6; valence = 79.5; energy = 72.0) represents the upper extreme an
 
 #### Cluster 5
 
+Cluster 5 captures songs in which the narrator expresses emotional withdrawal, resignation, or detachment rather than engagement with harm or repair.
+
 *You're So Cold* by Two Feet (2016)
 > You are a stranger when I come home       
 > You'll never turn your dreams to gold     
@@ -239,10 +243,18 @@ Cluster 0 (n = 6; valence = 79.5; energy = 72.0) represents the upper extreme an
 
 ### Cluster Evaluation 
 
-Notably, the clusters organize into two equally sized central groupings. Clusters 1 and 2 together account for 33 songs, as do Clusters 3 and 4, while the remaining clusters occupy the extremes of the valence–energy space (Cluster 0, n = 5; Cluster 5, n = 3).
+Notably, the clusters organize into two equally sized central groupings. Clusters 1 and 2 together account for 33 songs, as do Clusters 3 and 4, while the remaining clusters occupy the extremes of the valence–energy space (Cluster 0, n = 6; Cluster 5, n = 3).
 
-Clusters 1 and 2 share low valence but differ in energy, ranging from medium to high. These clusters are characterized by pessimism rather than moral injury, reflecting responses to sustained pressure or perceived inevitability that range from defensive frustration to defiant action.
+Taken together, Clusters 1 and 2 reflect low-valence responses that diverge primarily by energy, ranging from defensive frustration to defiant action in response to sustained pressure or perceived inevitability.
 
-Clusters 3 and 4 share medium valence but likewise differ in energy. These clusters are organized around moral injury, where harm is recognized and responsibility is assigned, with responses ranging from unresolved accusation to active rejection.
+Clusters 3 and 4 likewise differ primarily by energy while sharing medium valence. These clusters are organized around moral injury, where harm is recognized and responsibility is assigned, with responses ranging from unresolved accusation to active rejection.
 
-By contrast, Cluster 0, defined by high valence and high energy, reflects affirming or expansive emotional states, while Cluster 5, defined by low valence and low energy, reflects withdrawal, resignation, or emotional collapse.
+By contrast, Cluster 0, defined by high valence and high energy, reflects affirming or expansive emotional states characterized by moral certainty and activation, while Cluster 5, defined by low valence and low energy, reflects withdrawal, resignation, or emotional collapse.
+
+## Conclusion 
+
+This analysis demonstrates that songs within the moral philosophy playlist cluster not only by affective properties such as valence and energy, but by distinct moral–emotional orientations. By mapping valence to appraisals of harm and energy to response posture, the resulting clusters reveal patterned ways in which distress is processed, expressed, and resolved in popular music.
+
+Across the central clusters, two dominant modes emerge: pessimistic responses to sustained pressure (Clusters 1 and 2) and responses organized around moral injury (Clusters 3 and 4). Within each mode, differences in energy distinguish defensive engagement from defiant resolution. These patterns are bounded by two affective extremes: an upper pole characterized by energized moral certainty (Cluster 0) and a lower pole characterized by withdrawal and resignation (Cluster 5).
+
+Together, these findings suggest that emotional expression in music is structured not only by intensity or positivity, but by how narrators position themselves in relation to harm, responsibility, and agency. Rather than treating valence and energy as purely descriptive features, this framework highlights their role in shaping moral stance, offering a more nuanced account of how distress and resistance are articulated in contemporary song lyrics.
