@@ -88,7 +88,7 @@ Clusters 1 and 2 share low valence but differ in energy, ranging from medium to 
 - Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy
 - Cluster 2 (n = 12; valence = 25.8; energy = 82.4) is characterized by low valence and high energy. 
 
-#### Cluster 1 Lyric Samples
+#### Cluster 1
 
 Cluster 1 captures songs in which the narrator appears pessimistic and frustrated by societal and relational pressure. 
 
@@ -115,7 +115,7 @@ Cluster 1 captures songs in which the narrator appears pessimistic and frustrate
 > That it’s too late to apologize  
 > It’s too late
 
-#### Cluster 2 Lyric Samples
+#### Cluster 2
 
 Cluster 2 captures songs in which the narrator appears pessimistic and defiant. 
 
@@ -151,7 +151,7 @@ Clusters 3 and 4 share meidum valence but differ in energy, ranging from medium 
 - Cluster 3 (n = 17; valence = 51.3; energy = 49.9) is characterized by medium valence and moderate energy 
 - Cluster 4 (n = 16; valence = 49.3; energy = 84.9) is characterized by medium valence and high energy 
 
-#### Cluster 3 Lyric Samples
+#### Cluster 3
 
 Cluster 3 captures songs in which the narrator appears morally wounded and accusatory.
 
@@ -173,7 +173,7 @@ Cluster 3 captures songs in which the narrator appears morally wounded and accus
 > If I was putting things off    
 > If I was drinking too much of that red wine  
 
-#### Cluster 4 Lyric Samples
+#### Cluster 4
 
 Cluster 4 captures songs in which the narrator appears wounded and defiant, where acknowledged injury gives way to decisive outward action, such as rejection, blame, or enforced distance.
 
