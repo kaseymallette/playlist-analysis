@@ -93,9 +93,9 @@ Lyric samples:
 
 *“Apologize”* by OneRepublic (2007)
 
-> You tell me that you need me
-> Then you go and cut me down, but wait
-> You tell me that you’re sorry 
+> You tell me that you need me  
+> Then you go and cut me down, but wait  
+> You tell me that you’re sorry  
 > Didn’t think I’d turn around and say  
-> That it’s too late to apologize
-> It's too late
+> That it’s too late to apologize  
+> It’s too late
