@@ -102,7 +102,7 @@ Lyric samples:
 
 ### **Cluster 3 (Medium Valence, Medium Energy)**
 
-Cluster 3 contained the second largest number of songs (n = 17). This cluster reflects emotionally balanced or ambiguous states, suggesting moral reflection rather than overt tension or affirmation.
+Cluster 3 contained the second largest number of songs (n = 17). With central values for both valence and energy, this cluster captures songs where the narrator seems morally wounded and defensive, but not necessarily defiant or confrontational.
 
 The most popular songs in this cluster include “labour” by Paris Paloma (≈0.4 billion streams, popularity=72), “Cringe” by Matt Maeson (≈0.2 billion streams, popularity=69), and "Glue Myself Shut" by Noah Kahan (≈0.1 billion streams, popularity=71). 
 
