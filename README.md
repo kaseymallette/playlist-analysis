@@ -71,24 +71,27 @@ The clustering results indicate that songs in the moral philosophy playlist form
 
 **Cluster 1 (Low Valence, Medium Energy)** contained the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
 
-> The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity = 84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity = 82), and “Apologize” by OneRepublic (≈0.9 billion streams, popularity = 76).
+The most popular songs in this cluster include: 
 
-> **“Way Down We Go” – Lyric Sample**
->
+*“Way Down We Go”* by Kaelo (2016)
+(streams ≈ 1.5 billion, popularity = 84)
+
 > They will run you down, down ’till you fall  
 > And they will run you down, down to your core  
 > Yeah, ’till you can’t crawl no more  
 > And way down we go-o-o-o-o  
 
-> **“Heart-Shaped Box” – Lyric Sample**
->
+*“Heart-Shaped Box”* by Nirvana (1993)
+(streams ≈ 1.0 billion, popularity = 82)
+
 > Hey  
 > Wait  
 > I got a new complaint  
 > Forever in debt to your priceless advice.  
 
-> **“Apologize” – Lyric Sample**
->
+*“Apologize”* by OneRepublic (2007)
+(streams ≈ 0.9 billion, popularity = 76)
+
 > You tell me that you need me
 > Then you go and cut me down, but wait
 > You tell me that you’re sorry  
