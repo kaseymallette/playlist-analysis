@@ -141,8 +141,8 @@ Cluster 2 captures songs in which the narrator appears pessimistic and defiant.
 
 *Red* by Catfish and the Bottlemen (2016) 
 > How about I change?   
-> How about you look at me the same? 
-> Hey          
+> How about you look at me the same?        
+> Hey             
 > How about I change?       
 > How about you love me again?  
 
