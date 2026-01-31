@@ -175,7 +175,9 @@ Cluster 3 captures songs in which the narrator appears morally wounded and accus
 > You never asked once   
 > No, you never asked why   
 > If I was putting things off    
-> If I was drinking too much of that red wine  
+> If I was drinking too much of that red wine   
+> Oh, you'd wear yourself thin          
+> And accept every sin          
 
 #### Cluster 4
 
