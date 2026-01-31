@@ -82,13 +82,15 @@ Energy corresponds to a response posture:
 
 Together, these dimensions distinguish not only how negatively an experience is felt, but how that experience is managed. 
 
-### Case 1: Low-Medium Valence & Medium Energy
+### Case 1: Clusters 1 and 2
 
-Clusters 1 and 3 have similar levels of energy but differ in valence. Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy, whereas Cluster 3 (n = 17; valence = 51.3; energy = 49.9) shows medium valence with comparable energy. 
-
-Despite this similarity in energy, the clusters diverge in moral–emotional orientation. Cluster 1 captures songs in which the narrator appears pessimistic and frustrated by societal and relational pressure. In contrast, Cluster 3 captures songs in which the narrator appears morally wounded and accusatory. In both cases, moderate energy reflects a defensive posture, in which distress is actively expressed but remains oriented toward resistance or explanation rather than escalation or withdrawal.
+Clusters 1 and 2 share low valence but differ in energy, ranging from medium to high. 
+- Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy
+- Cluster 2 (n = 12; valence = 25.8; energy = 82.4) is characterized by low valence and high energy. 
 
 #### Cluster 1 Lyric Samples
+
+Cluster 1 captures songs in which the narrator appears pessimistic and frustrated by societal and relational pressure. 
 
 *“Way Down We Go”* by Kaleo (2016)
 
@@ -113,35 +115,9 @@ Despite this similarity in energy, the clusters diverge in moral–emotional ori
 > That it’s too late to apologize  
 > It’s too late
 
-#### Cluster 3 Lyric Samples
-
-*labour* by Paris Paloma (2023)
-> The capillaries in my eyes are bursting  
-> If our love died, would that be the worst thing?  
-> For somebody I thought was my saviour  
-> You sure make me do a whole lot of labour 
-
-*Cringe* by Matt Maeson (2019)
-> She said I'm looking like a bad man, smooth criminal  
-> She said my spirit doesn't move like it did before  
-> She said that I don't look like me no more, no more  
-> I said, "I'm just tired"
-
-*Glue Myself Shut* by Noah Kahan (2020)
-> You never asked once   
-> No, you never asked why   
-> If I was putting things off    
-> If I was drinking too much of that red wine   
-
-### Case 2: Low-Medium Valence & High Energy
-
-Clusters 2 and 4 have similar levels of energy but differ in valence. Cluster 2 (n = 12; valence = 25.8; energy = 82.4) is characterized by low valence and high energy, whereas Cluster 4 (n = 16; valence = 49.3; energy = 84.9) shows medium valence with comparable energy. 
+#### Cluster 2 Lyric Samples
 
 Cluster 2 captures songs in which the narrator appears pessimistic and defiant. 
-
-Cluster 4 captures songs in which the narrator appears wounded and defiant, where acknowledged injury gives way to decisive outward action, such as rejection, blame, or enforced distance.
-
-#### Cluster 2 Lyric Samples
 
 *Mouthful of Diamonds* by Phantogram (2010)
 > The world is not round because of you      
@@ -166,9 +142,40 @@ Cluster 4 captures songs in which the narrator appears wounded and defiant, wher
 > How about you look at me the same? 
 > Hey          
 > How about I change?       
-> How about you love me again?      
+> How about you love me again?  
+
+
+### Case 2: Clusters 3 and 4
+
+Clusters 3 and 4 share meidum valence but differ in energy, ranging from medium to high. 
+- Cluster 3 (n = 17; valence = 51.3; energy = 49.9) is characterized by medium valence and moderate energy 
+- Cluster 4 (n = 16; valence = 49.3; energy = 84.9) is characterized by medium valence and high energy 
+
+#### Cluster 3 Lyric Samples
+
+Cluster 3 captures songs in which the narrator appears morally wounded and accusatory.
+
+*labour* by Paris Paloma (2023)
+> The capillaries in my eyes are bursting  
+> If our love died, would that be the worst thing?  
+> For somebody I thought was my saviour  
+> You sure make me do a whole lot of labour 
+
+*Cringe* by Matt Maeson (2019)
+> She said I'm looking like a bad man, smooth criminal  
+> She said my spirit doesn't move like it did before  
+> She said that I don't look like me no more, no more  
+> I said, "I'm just tired"
+
+*Glue Myself Shut* by Noah Kahan (2020)
+> You never asked once   
+> No, you never asked why   
+> If I was putting things off    
+> If I was drinking too much of that red wine  
 
 #### Cluster 4 Lyric Samples
+
+Cluster 4 captures songs in which the narrator appears wounded and defiant, where acknowledged injury gives way to decisive outward action, such as rejection, blame, or enforced distance.
 
 *Bleed It Out* by Linkin Park (2007)
 > This hurts, I won't lie   
@@ -194,25 +201,12 @@ Cluster 4 captures songs in which the narrator appears wounded and defiant, wher
 > And all of this was all your fault
 
 
+### Cluster Evaluation 
 
-*
+Notably, the clusters organize into two equally sized central groupings. Clusters 1 and 2 together account for 33 songs, as do Clusters 3 and 4, while the remaining clusters occupy the extremes of the valence–energy space (Cluster 0, n = 5; Cluster 5, n = 3).
 
+Clusters 1 and 2 share low valence but differ in energy, ranging from medium to high. These clusters are characterized by pessimism rather than moral injury, reflecting responses to sustained pressure or perceived inevitability that range from defensive frustration to defiant action.
 
+Clusters 3 and 4 share medium valence but likewise differ in energy. These clusters are organized around moral injury, where harm is recognized and responsibility is assigned, with responses ranging from unresolved accusation to active rejection.
 
-Case 1
-Low-Medium Valence & Medium Energy
-C1: Pessimistic + Defensive 
-C3: Wounded + Defensive
-
-Case 2
-Low-Med Valence & High Energy
-C2: Pessimistic + Defiant 
-C4: Wounded + Defiant 
-
-Case 3
-High Valence & High Energy
-C0: Outraged + Defiant 
-
-Case 4
-Low Valence & Low Energy
-C5: Pesimissitc + Exhausted 
+By contrast, Cluster 0, defined by high valence and high energy, reflects affirming or expansive emotional states, while Cluster 5, defined by low valence and low energy, reflects withdrawal, resignation, or emotional collapse.
