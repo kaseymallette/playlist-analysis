@@ -167,7 +167,9 @@ Cluster 3 captures songs in which the narrator appears morally wounded and accus
 > She said I'm looking like a bad man, smooth criminal  
 > She said my spirit doesn't move like it did before  
 > She said that I don't look like me no more, no more  
-> I said, "I'm just tired"
+> I said, "I'm just tired"      
+> Oh, I make you cringe now      
+> Don't I make you cringe?          
 
 *Glue Myself Shut* by Noah Kahan (2020)
 > You never asked once   
