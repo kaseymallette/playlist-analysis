@@ -128,9 +128,9 @@ Cluster 4 contains the third largest number of songs (n = 16) and is characteriz
 
 *Bleed It Out* by Linkin Park (2007)
 > this hurts, I won't lie   
-> Doesn't matter how hard I try 
-> Half the words don't mean a thing 
-> And I know that I won't be satisfied  
+> Doesn't matter how hard I try      
+> Half the words don't mean a thing      
+> And I know that I won't be satisfied        
 
 > I bleed it out, diggin' deeper just to throw it away  
 
