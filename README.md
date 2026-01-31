@@ -121,7 +121,7 @@ Lyric samples:
 > I said, "I'm just tired"
 
 *Glue Myself Shut* by Noah Kahan (2020)
-> You never asked once 
-> No, you never asked why 
-> If I was putting things off 
-> If I was drinking too much of that red wine
+> You never asked once   
+> No, you never asked why   
+> If I was putting things off    
+> If I was drinking too much of that red wine   
