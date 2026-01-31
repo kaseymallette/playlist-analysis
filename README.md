@@ -85,8 +85,8 @@ Together, these dimensions distinguish not only how negatively an experience is 
 ### Case 1: Clusters 1 and 2
 
 Clusters 1 and 2 share low valence but differ in energy, ranging from medium to high. 
-- Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy
-- Cluster 2 (n = 12; valence = 25.8; energy = 82.4) is characterized by low valence and high energy. 
+- Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy.
+- Cluster 2 (n = 12; valence = 25.8; energy = 82.4) is characterized by low valence and high energy.
 
 #### Cluster 1
 
@@ -104,7 +104,7 @@ Cluster 1 captures songs in which the narrator appears pessimistic and frustrate
 > Hey  
 > Wait  
 > I got a new complaint  
-> Forever in debt to your priceless advice.  
+> Forever in debt to your priceless advice 
 
 *“Apologize”* by Timbaland, OneRepublic (2007)
 
@@ -148,8 +148,8 @@ Cluster 2 captures songs in which the narrator appears pessimistic and defiant.
 ### Case 2: Clusters 3 and 4
 
 Clusters 3 and 4 share meidum valence but differ in energy, ranging from medium to high. 
-- Cluster 3 (n = 17; valence = 51.3; energy = 49.9) is characterized by medium valence and moderate energy 
-- Cluster 4 (n = 16; valence = 49.3; energy = 84.9) is characterized by medium valence and high energy 
+- Cluster 3 (n = 17; valence = 51.3; energy = 49.9) is characterized by medium valence and moderate energy. 
+- Cluster 4 (n = 16; valence = 49.3; energy = 84.9) is characterized by medium valence and high energy.
 
 #### Cluster 3
 
