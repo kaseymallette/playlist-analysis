@@ -69,9 +69,11 @@ Table 1 summarizes the mean valence, mean energy, and number of songs for each c
 
 The clustering results indicate that songs in the moral philosophy playlist form distinct groupings across valence and energy. While the Results section demonstrated quantitative separation, the Discussion evaluates whether these clusters correspond to interpretable moral–emotional themes by examining the most popular songs within each cluster.
 
-### **Cluster 1 (Low Valence, Medium Energy)**
+### Most Popular Songs by Cluster
 
-Cluster 1 contained the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
+#### **Cluster 1 (Low Valence, Medium Energy)**
+
+Cluster 1 contains the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
 
 The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity=84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity=82), and “Apologize” by Timbaland, OneRepublic (≈0.8 billion streams, popularity=76).
 
@@ -100,9 +102,9 @@ Lyric samples:
 > That it’s too late to apologize  
 > It’s too late
 
-### **Cluster 3 (Medium Valence, Medium Energy)**
+#### **Cluster 3 (Medium Valence, Medium Energy)**
 
-Cluster 3 contained the second largest number of songs (n = 17). With central values for both valence and energy, this cluster captures songs where the narrator seems morally wounded and defensive, but not necessarily defiant or confrontational.
+Cluster 3 contains the second largest number of songs (n = 17). With central values for both valence and energy, this cluster captures songs where the narrator seems morally wounded and defensive, but not necessarily defiant or confrontational.
 
 The most popular songs in this cluster include “labour” by Paris Paloma (≈0.4 billion streams, popularity=72), “Cringe” by Matt Maeson (≈0.2 billion streams, popularity=69), and "Glue Myself Shut" by Noah Kahan (≈0.1 billion streams, popularity=71). 
 
@@ -125,3 +127,7 @@ Lyric samples:
 > No, you never asked why   
 > If I was putting things off    
 > If I was drinking too much of that red wine   
+
+### Cluster Evaluation
+
+Although Cluster 1 and Cluster 3 occupy similar ranges of energy and valence, they differ in how distress is expressed. Cluster 1 captures songs in which distress is ongoing and energetically expressed, whereas Cluster 3 captures songs in which distress has been internalized and moderated through emotional restraint.
