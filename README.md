@@ -73,7 +73,7 @@ The clustering results indicate that songs in the moral philosophy playlist form
 
 Cluster 1 contained the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
 
-The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity=84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity=82), and “Apologize” by OneRepublic (≈0.9 billion streams, popularity=76).
+The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity=84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity=82), and “Apologize” by Timbaland, OneRepublic (≈0.8 billion streams, popularity=76).
 
 Lyric samples: 
 
@@ -91,7 +91,7 @@ Lyric samples:
 > I got a new complaint  
 > Forever in debt to your priceless advice.  
 
-*“Apologize”* by OneRepublic (2007)
+*“Apologize”* by Timbaland, OneRepublic (2007)
 
 > You tell me that you need me  
 > Then you go and cut me down, but wait  
@@ -99,3 +99,29 @@ Lyric samples:
 > Didn’t think I’d turn around and say  
 > That it’s too late to apologize  
 > It’s too late
+
+### **Cluster 3 (Medium Valence, Medium Energy)**
+
+Cluster 3 contained the second largest number of songs (n = 17). This cluster reflects emotionally balanced or ambiguous states, suggesting moral reflection rather than overt tension or affirmation.
+
+The most popular songs in this cluster include “labour” by Paris Paloma (≈0.4 billion streams, popularity=72), “Cringe” by Matt Maeson (≈0.2 billion streams, popularity=69), and "Glue Myself Shut" by Noah Kahan (≈0.1 billion streams, popularity=71). 
+
+Lyric samples: 
+
+*labour* by Paris Paloma (2023)
+> The capillaries in my eyes are bursting  
+> If our love died, would that be the worst thing?  
+> For somebody I thought was my saviour  
+> You sure make me do a whole lot of
+
+*Cringe* by Matt Maeson (2019)
+> She said I'm looking like a bad man, smooth criminal  
+> She said my spirit doesn't move like it did before  
+> She said that I don't look like me no more, no more  
+> I said, "I'm just tired"
+
+*Glue Myself Shut* by Noah Kahan (2020)
+> You never asked once 
+> No, you never asked why 
+> If I was putting things off 
+> If I was drinking too much of that red wine
