@@ -74,6 +74,7 @@ The clustering results indicate that songs in the moral philosophy playlist form
 The most popular songs in this cluster include: 
 
 *“Way Down We Go”* by Kaelo (2016)
+
 (streams ≈ 1.5 billion, popularity = 84)
 
 > They will run you down, down ’till you fall  
@@ -82,6 +83,7 @@ The most popular songs in this cluster include:
 > And way down we go-o-o-o-o  
 
 *“Heart-Shaped Box”* by Nirvana (1993)
+
 (streams ≈ 1.0 billion, popularity = 82)
 
 > Hey  
@@ -90,6 +92,7 @@ The most popular songs in this cluster include:
 > Forever in debt to your priceless advice.  
 
 *“Apologize”* by OneRepublic (2007)
+
 (streams ≈ 0.9 billion, popularity = 76)
 
 > You tell me that you need me
