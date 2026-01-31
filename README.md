@@ -65,17 +65,11 @@ Table 1 summarizes the mean valence, mean energy, and number of songs for each c
 | 4       | 49.25        | 84.88       | 16         |
 | 5       | 24.33        | 28.33       | 3          |
 
-## Discussion
-
-The clustering results indicate that songs in the moral philosophy playlist form distinct groupings across valence and energy. While the Results section demonstrated quantitative separation, the Discussion evaluates whether these clusters correspond to interpretable moral–emotional themes by examining the most popular songs within each cluster.
-
 ### Most Popular Songs by Cluster
 
 #### **Cluster 1 (Low Valence, Medium Energy)**
 
 Cluster 1 contains the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
-
-The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity=84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity=82), and “Apologize” by Timbaland, OneRepublic (≈0.8 billion streams, popularity=76).
 
 Lyric samples: 
 
@@ -106,8 +100,6 @@ Lyric samples:
 
 Cluster 3 contains the second largest number of songs (n = 17). With central values for both valence and energy, this cluster captures songs where the narrator seems morally wounded and defensive, but not necessarily defiant or confrontational.
 
-The most popular songs in this cluster include “labour” by Paris Paloma (≈0.4 billion streams, popularity=72), “Cringe” by Matt Maeson (≈0.2 billion streams, popularity=69), and "Glue Myself Shut" by Noah Kahan (≈0.1 billion streams, popularity=71). 
-
 Lyric samples: 
 
 *labour* by Paris Paloma (2023)
@@ -128,6 +120,26 @@ Lyric samples:
 > If I was putting things off    
 > If I was drinking too much of that red wine   
 
-### Cluster Evaluation
+#### **Cluster 4 (Medium Valence, High Energy)**
 
-Although Cluster 1 and Cluster 3 occupy similar ranges of energy and valence, they differ in how distress is expressed. Cluster 1 captures songs in which distress is ongoing and energetically expressed, whereas Cluster 3 captures songs in which distress has been internalized and moderated through emotional restraint.
+Cluster 4 contains the third largest number of songs (n = 16).
+
+## Discussion
+
+The clustering results indicate that songs in the moral philosophy playlist form distinct groupings across valence and energy. While the Results section demonstrated quantitative separation, the Discussion evaluates whether these clusters correspond to interpretable moral–emotional themes by examining the most popular songs within each cluster.
+
+### Dichotomy 
+
+Valence
+- Low = Pessimistic 
+- Medium = Wounded
+- High = Outraged 
+
+Energy 
+- Low = Defeated 
+- Medium = Exhausted
+- High = Confrontational 
+
+Cluster 1: Pessimisitc + Exhausted
+Cluster 3: Wounded + Exhausted
+Cluster 4: Wounded + Confrontational 
