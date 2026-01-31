@@ -201,6 +201,42 @@ Cluster 4 captures songs in which the narrator appears wounded and defiant, wher
 > And all of this was all your fault
 
 
+### Case 3: Clusters 0 and 5
+
+Cluster 0 (n = 6; valence = 79.5; energy = 72.0) represents the upper extreme and is characterized by high valence and high energy. Cluster 5 (n = 3; valence = 24.3; energy = 28.3) represents the lower extreme and is characterized by low valence and low energy.
+
+#### Cluster 0
+
+*Gaslighter* by The Chicks (2020)
+> Gaslighter, denier    
+> Doin' anything to get your ass farther    
+> Gaslighter, big timer     
+> Repeating all of the mistakes of your father      
+> Gaslighter, you broke me      
+> You're sorry, but where's my apology?     
+> Gaslighter, you liar      
+
+*Typical Ways* by Culture Wars (2025)
+> And I know I adore ya, but I’m no good for ya     
+> There’s no way you’re changing my mind               
+> And you’re so…        
+> Stuck in your typical ways        
+
+#### Cluster 5
+
+*You're So Cold* by Two Feet (2016)
+> You are a stranger when I come home       
+> You'll never turn your dreams to gold     
+> You're so cold        
+> You're so cold        
+
+*Leave It* by Teacup Monster (2018)
+> You could tell me I’m dumb        
+> And I don’t understand        
+> But, that’s how I am         
+> Just take it      
+> Just take it or leave it          
+
 ### Cluster Evaluation 
 
 Notably, the clusters organize into two equally sized central groupings. Clusters 1 and 2 together account for 33 songs, as do Clusters 3 and 4, while the remaining clusters occupy the extremes of the valence–energy space (Cluster 0, n = 5; Cluster 5, n = 3).
