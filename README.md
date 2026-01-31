@@ -139,13 +139,15 @@ Cluster 4 contains the third largest number of songs (n = 16) and is characteriz
 > I don't even recognize your face   
 > Mirror on the wall        
 > Tell me all the ways to stay away 
-> Away-ay ya    
+> Away-ay ya          
 
 *Cute Without The 'E' (Cut From The Team)* by Taking Back Sunday (2002)
 > Hoping for the best, just hoping nothing happens  
 > A thousand clever lines unread on clever napkins  
 > I will never ask if you don't ever tell me    
 > I know you well enough to know you'll never love me   
+
+> And all of this was all your fault
 
 ## Discussion
 
