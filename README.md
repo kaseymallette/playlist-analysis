@@ -184,7 +184,6 @@ Cluster 4 captures songs in which the narrator appears wounded and defiant, as a
 > Doesn't matter how hard I try      
 > Half the words don't mean a thing      
 > And I know that I won't be satisfied        
-
 > I bleed it out, diggin' deeper just to throw it away  
 
 *Black Out Days* by Phantogram (2014)
@@ -199,7 +198,6 @@ Cluster 4 captures songs in which the narrator appears wounded and defiant, as a
 > A thousand clever lines unread on clever napkins  
 > I will never ask if you don't ever tell me    
 > I know you well enough to know you'll never love me   
-
 > And all of this was all your fault
 
 
