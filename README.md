@@ -65,13 +65,32 @@ Table 1 summarizes the mean valence, mean energy, and number of songs for each c
 | 4       | 49.25        | 84.88       | 16         |
 | 5       | 24.33        | 28.33       | 3          |
 
-### Most Popular Songs by Cluster
 
-#### **Cluster 1 (Low Valence, Medium Energy)**
+## Discussion
 
-Cluster 1 contains the largest number of songs (n = 21) and is characterized by low valence (25.9) and moderate energy (56.8). This cluster captures songs in which the narrator appears pessimistic and emotionally exhausted by societal and relational pressure.
+The clustering results indicate that songs in the moral philosophy playlist differ not only in valence and energy, but also in their moral–emotional orientation. While the Results section established quantitative separation between clusters, the Discussion examines whether these groupings correspond to interpretable emotional stances by drawing on representative lyrical content.
 
-**Lyric samples:**
+To support interpretation, valence and energy were mapped onto moral–emotional states rather than treated as purely affective measures. In this framework, valence reflects how harm or injustice is appraised, while energy reflects how the narrator responds to that appraisal.
+
+Valence is interpreted as follows: 
+- **Low valence** = *Pessimism* - bleak expectations about change or repair
+- **Medium valence** = *Woundedness* - acknowledgment of moral or relational injury
+- **High valence** = *Outrage* - morally charged anger toward a perceived source of harm
+
+Energy corresponds to a response posture: 
+- **Low energy** = *Exhaustion*
+- **Medium energy** = *Defensiveness*
+- **High energy** = *Defiance* 
+
+Together, these dimensions distinguish not only how negatively an experience is felt, but how that experience is managed. 
+
+### Case 1: Low-Medium Valence & Medium Energy
+
+Clusters 1 and 3 occupy similar ranges of energy but differ markedly in valence. Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy, whereas Cluster 3 (n = 17; valence = 51.3; energy = 49.9) shows substantially higher valence with comparable energy levels.
+
+Despite this similarity in energy, the clusters diverge in moral–emotional orientation. Cluster 1 captures songs in which the narrator appears pessimistic and emotionally exhausted by societal and relational pressure, reflecting distress without a clearly identified moral breach. In contrast, Cluster 3 captures songs in which the narrator appears morally wounded and accusatory, indicating recognition of harm and attribution of responsibility while remaining engaged rather than confrontational.
+
+#### Cluster 1 Lyric Samples
 
 *“Way Down We Go”* by Kaleo (2016)
 
@@ -96,11 +115,7 @@ Cluster 1 contains the largest number of songs (n = 21) and is characterized by 
 > That it’s too late to apologize  
 > It’s too late
 
-#### **Cluster 3 (Medium Valence, Medium Energy)**
-
-Cluster 3 contains the second largest number of songs (n = 17) and is characterized by medium valence (51.3) and moderate energy (49.9). This cluster captures songs in which the narrator appears morally wounded and accusatory.
-
-**Lyric samples:**
+#### Cluster 3 Lyric Samples
 
 *labour* by Paris Paloma (2023)
 > The capillaries in my eyes are bursting  
@@ -122,7 +137,7 @@ Cluster 3 contains the second largest number of songs (n = 17) and is characteri
 
 #### **Cluster 4 (Medium Valence, High Energy)**
 
-Cluster 4 contains the third largest number of songs (n = 16) and is characterized by medium valence (49.3) and high energy (84.9). This cluster captures songs in which the narrator appears morally wounded and rejecting. 
+Cluster 4 contains the third largest number of songs (n = 16) and is characterized by medium valence (49.3) and high energy (84.9). This cluster captures songs in which the narrator appears morally wounded, powerless, and rejecting. 
 
 **Lyric samples:**
 
@@ -155,16 +170,44 @@ The clustering results indicate that songs in the moral philosophy playlist form
 
 ### Dichotomy 
 
-Valence
-- Low = Pessimistic 
-- Medium = Wounded
-- High = Outraged 
 
-Energy 
-- Low = Defeated 
-- Medium = Exhausted
-- High = Confrontational 
+Cluster 1: Annoyed and Defensive -> Pessimistic 
+Cluster 3: Wounded and Defensive -> Accusatory 
+Cluster 4: Wounded and Powerless -> Rejecting 
 
-Cluster 1: Pessimisitc + Exhausted
-Cluster 3: Wounded + Exhausted
-Cluster 4: Wounded + Confrontational 
+Cluster 0: Confrontational and Defiant
+Cluster 2: Annoyed and Defiant
+Cluster 5: Wounded and Exhausted
+
+Annoyed/Wounded 
+
+Defiant, Powerless, Exhausted
+
+
+Valence 
+Low = Pessimistic 
+Medium = Wounded
+High = Outraged 
+
+Energy
+Low = Exhausted
+Medium = Defensive
+High = Defiant 
+
+Case 1
+Low-Medium Valence & Medium Energy
+C1: Pessimistic + Defensive 
+C3: Wounded + Defensive
+
+Case 2
+Low-Med-High Valence & High Energy
+C2: Pessimistic + Defiant 
+C4: Wounded + Defiant 
+
+Case 3
+High Valence & High Energy
+C0: Outraged + Defiant 
+
+Case 4
+Low Valence & Low Energy
+C5: Pesimissitc + Exhausted 
