@@ -69,7 +69,7 @@ Table 1 summarizes the mean valence, mean energy, and number of songs for each c
 
 #### **Cluster 1 (Low Valence, Medium Energy)**
 
-Cluster 1 contains the largest number of songs (n = 21) and is characterized by low valence (25.9) and moderate energy (56.8), reflecting themes of emotional exhaustion, distress, and societal pressure.
+Cluster 1 contains the largest number of songs (n = 21) and is characterized by low valence (25.9) and moderate energy (56.8). This cluster captures songs in which the narrator appears pessimistic and emotionally exhausted by societal and relational pressure.
 
 **Lyric samples:**
 
@@ -98,7 +98,7 @@ Cluster 1 contains the largest number of songs (n = 21) and is characterized by 
 
 #### **Cluster 3 (Medium Valence, Medium Energy)**
 
-Cluster 3 contains the second largest number of songs (n = 17) and is characterized by medium valence (51.3) and moderate energy (49.9). This cluster captures songs in which the narrator appears morally wounded and defensive, reflecting emotional injury and self-protective restraint.
+Cluster 3 contains the second largest number of songs (n = 17) and is characterized by medium valence (51.3) and moderate energy (49.9). This cluster captures songs in which the narrator appears morally wounded and accusatory.
 
 **Lyric samples:**
 
@@ -106,7 +106,7 @@ Cluster 3 contains the second largest number of songs (n = 17) and is characteri
 > The capillaries in my eyes are bursting  
 > If our love died, would that be the worst thing?  
 > For somebody I thought was my saviour  
-> You sure make me do a whole lot of
+> You sure make me do a whole lot of labour 
 
 *Cringe* by Matt Maeson (2019)
 > She said I'm looking like a bad man, smooth criminal  
@@ -122,12 +122,12 @@ Cluster 3 contains the second largest number of songs (n = 17) and is characteri
 
 #### **Cluster 4 (Medium Valence, High Energy)**
 
-Cluster 4 contains the third largest number of songs (n = 16) and is characterized by medium valence (49.3) and high energy (84.9). This cluster captures songs in which the narrator appears morally wounded and defiant, reflecting outwardly expressed anger and boundary enforcement.
+Cluster 4 contains the third largest number of songs (n = 16) and is characterized by medium valence (49.3) and high energy (84.9). This cluster captures songs in which the narrator appears morally wounded and rejecting. 
 
 **Lyric samples:**
 
 *Bleed It Out* by Linkin Park (2007)
-> this hurts, I won't lie   
+> This hurts, I won't lie   
 > Doesn't matter how hard I try      
 > Half the words don't mean a thing      
 > And I know that I won't be satisfied        
@@ -138,7 +138,7 @@ Cluster 4 contains the third largest number of songs (n = 16) and is characteriz
 > Speak in tongues    
 > I don't even recognize your face   
 > Mirror on the wall        
-> Tell me all the ways to stay away 
+> Tell me all the ways to stay away     
 > Away-ay ya          
 
 *Cute Without The 'E' (Cut From The Team)* by Taking Back Sunday (2002)
