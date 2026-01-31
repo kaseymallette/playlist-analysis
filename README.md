@@ -68,14 +68,12 @@ Table 1 summarizes the mean valence, mean energy, and number of songs for each c
 
 ## Discussion
 
-The clustering results indicate that songs in the moral philosophy playlist differ not only in valence and energy, but also in their moral–emotional orientation. While the Results section established quantitative separation between clusters, the Discussion examines whether these groupings correspond to interpretable emotional stances by drawing on representative lyrical content.
-
-To support interpretation, valence and energy were mapped onto moral–emotional states rather than treated as purely affective measures. In this framework, valence reflects how harm or injustice is appraised, while energy reflects how the narrator responds to that appraisal.
+Although the clusters separate quantitatively by valence and energy, they also differ in how emotional and moral distress is expressed. The Discussion interprets these differences by examining representative lyrics from each cluster. To support interpretation, valence and energy were mapped onto moral–emotional states. In this framework, valence reflects how harm or injustice is appraised, while energy reflects how the narrator responds to that appraisal.
 
 Valence is interpreted as follows: 
-- **Low valence** = *Pessimism* - bleak expectations about change or repair
-- **Medium valence** = *Woundedness* - acknowledgment of moral or relational injury
-- **High valence** = *Outrage* - morally charged anger toward a perceived source of harm
+- **Low valence** = *Pessimism*, bleak expectations about change or repair
+- **Medium valence** = *Woundedness*, acknowledgment of moral or relational injury
+- **High valence** = *Outrage*, morally charged anger toward a perceived source of harm
 
 Energy corresponds to a response posture: 
 - **Low energy** = *Exhaustion*
@@ -86,9 +84,9 @@ Together, these dimensions distinguish not only how negatively an experience is 
 
 ### Case 1: Low-Medium Valence & Medium Energy
 
-Clusters 1 and 3 occupy similar ranges of energy but differ markedly in valence. Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy, whereas Cluster 3 (n = 17; valence = 51.3; energy = 49.9) shows substantially higher valence with comparable energy levels.
+Clusters 1 and 3 have similar levels of energy but differ in valence. Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy, whereas Cluster 3 (n = 17; valence = 51.3; energy = 49.9) shows substantially higher valence with comparable energy levels.
 
-Despite this similarity in energy, the clusters diverge in moral–emotional orientation. Cluster 1 captures songs in which the narrator appears pessimistic and emotionally exhausted by societal and relational pressure, reflecting distress without a clearly identified moral breach. In contrast, Cluster 3 captures songs in which the narrator appears morally wounded and accusatory, indicating recognition of harm and attribution of responsibility while remaining engaged rather than confrontational.
+Despite this similarity in energy, the clusters diverge in moral–emotional orientation. Cluster 1 captures songs in which the narrator appears pessimistic and emotionally exhausted by societal and relational pressure. In contrast, Cluster 3 captures songs in which the narrator appears morally wounded and accusatory. 
 
 #### Cluster 1 Lyric Samples
 
