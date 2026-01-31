@@ -69,13 +69,15 @@ Table 1 summarizes the mean valence, mean energy, and number of songs for each c
 
 The clustering results indicate that songs in the moral philosophy playlist form distinct groupings across valence and energy. While the Results section demonstrated quantitative separation, the Discussion evaluates whether these clusters correspond to interpretable moral–emotional themes by examining the most popular songs within each cluster.
 
-**Cluster 1 (Low Valence, Medium Energy)** contained the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
+### **Cluster 1 (Low Valence, Medium Energy)**
 
-The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity = 84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity = 82), and “Apologize” by OneRepublic (≈0.9 billion streams, popularity = 76).
+Cluster 1 contained the largest number of songs (n = 21). This cluster is characterized by negative emotional tone paired with sustained energy, reflecting themes of emotional exhaustion, distress, and societal pressure.
+
+The most popular songs in this cluster include “Way Down We Go” by Kaleo (≈1.5 billion streams, popularity=84), “Heart-Shaped Box” by Nirvana (≈1.0 billion streams, popularity=82), and “Apologize” by OneRepublic (≈0.9 billion streams, popularity=76).
 
 Lyric samples: 
 
-*“Way Down We Go”* by Kaelo (2016)
+*“Way Down We Go”* by Kaleo (2016)
 
 > They will run you down, down ’till you fall  
 > And they will run you down, down to your core  
