@@ -84,9 +84,9 @@ Together, these dimensions distinguish not only how negatively an experience is 
 
 ### Case 1: Low-Medium Valence & Medium Energy
 
-Clusters 1 and 3 have similar levels of energy but differ in valence. Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy, whereas Cluster 3 (n = 17; valence = 51.3; energy = 49.9) shows substantially higher valence with comparable energy levels.
+Clusters 1 and 3 have similar levels of energy but differ in valence. Cluster 1 (n = 21; valence = 25.9; energy = 56.8) is characterized by low valence and moderate energy, whereas Cluster 3 (n = 17; valence = 51.3; energy = 49.9) shows medium valence with comparable energy. 
 
-Despite this similarity in energy, the clusters diverge in moral–emotional orientation. Cluster 1 captures songs in which the narrator appears pessimistic and emotionally exhausted by societal and relational pressure. In contrast, Cluster 3 captures songs in which the narrator appears morally wounded and accusatory. 
+Despite this similarity in energy, the clusters diverge in moral–emotional orientation. Cluster 1 captures songs in which the narrator appears pessimistic and frustrated by societal and relational pressure. In contrast, Cluster 3 captures songs in which the narrator appears morally wounded and accusatory. In both cases, moderate energy reflects a defensive posture, in which distress is actively expressed but remains oriented toward resistance or explanation rather than escalation or withdrawal.
 
 #### Cluster 1 Lyric Samples
 
@@ -133,11 +133,42 @@ Despite this similarity in energy, the clusters diverge in moral–emotional ori
 > If I was putting things off    
 > If I was drinking too much of that red wine   
 
-#### **Cluster 4 (Medium Valence, High Energy)**
+### Case 2: Low-Medium Valence & High Energy
 
-Cluster 4 contains the third largest number of songs (n = 16) and is characterized by medium valence (49.3) and high energy (84.9). This cluster captures songs in which the narrator appears morally wounded, powerless, and rejecting. 
+Clusters 2 and 4 have similar levels of energy but differ in valence. Cluster 2 (n = 12; valence = 25.8; energy = 82.4) is characterized by low valence and high energy, whereas Cluster 4 (n = 16; valence = 49.3; energy = 84.9) shows medium valence with comparable energy. 
 
-**Lyric samples:**
+Cluster 2 captures songs in which the narrator appears pessimistic and defiant. 
+
+Cluster 4 captures songs in which the narrator appears wounded and defiant, where acknowledged injury gives way to decisive outward action, such as rejection, blame, or enforced distance.
+
+#### Cluster 2 Lyric Samples
+
+*Mouthful of Diamonds* by Phantogram (2010)
+> The world is not round because of you      
+> You know I'm not around because of you        
+> You've got a mouthful of diamonds     
+> And a pocketful of secrets        
+> I know you're never telling anyone        
+> Because the patterns, they control your mind      
+> Those patterns take away my time      
+> Hello, goodbye        
+
+*Heavy In Your Arms* by Florence + The Machine (2009)
+> My love has concrete feet 
+> My love's an iron ball    
+> Wrapped around your ankles    
+> Over the waterfall    
+> I'm so heavy      
+> Heavy, heavy in your arms     
+
+*Red* by Catfish and the Bottlemen (2016) 
+> How about I change?   
+> How about you look at me the same? 
+> Hey          
+> How about I change?       
+> How about you love me again?      
+
+#### Cluster 4 Lyric Samples
 
 *Bleed It Out* by Linkin Park (2007)
 > This hurts, I won't lie   
@@ -162,35 +193,11 @@ Cluster 4 contains the third largest number of songs (n = 16) and is characteriz
 
 > And all of this was all your fault
 
-## Discussion
-
-The clustering results indicate that songs in the moral philosophy playlist form distinct groupings across valence and energy. While the Results section demonstrated quantitative separation, the Discussion evaluates whether these clusters correspond to interpretable moral–emotional themes by examining the most popular songs within each cluster.
-
-### Dichotomy 
 
 
-Cluster 1: Annoyed and Defensive -> Pessimistic 
-Cluster 3: Wounded and Defensive -> Accusatory 
-Cluster 4: Wounded and Powerless -> Rejecting 
-
-Cluster 0: Confrontational and Defiant
-Cluster 2: Annoyed and Defiant
-Cluster 5: Wounded and Exhausted
-
-Annoyed/Wounded 
-
-Defiant, Powerless, Exhausted
+*
 
 
-Valence 
-Low = Pessimistic 
-Medium = Wounded
-High = Outraged 
-
-Energy
-Low = Exhausted
-Medium = Defensive
-High = Defiant 
 
 Case 1
 Low-Medium Valence & Medium Energy
@@ -198,7 +205,7 @@ C1: Pessimistic + Defensive
 C3: Wounded + Defensive
 
 Case 2
-Low-Med-High Valence & High Energy
+Low-Med Valence & High Energy
 C2: Pessimistic + Defiant 
 C4: Wounded + Defiant 
 
